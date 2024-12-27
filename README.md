@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaychethu&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaychethu" /> </p>
 
 
-- 🔭 I’m currently working on [AgriGuard](https://github.com/sanjaychethu/AgriGuard)
+- 🔭 I’m currently working on [AgriGuard](sanjaychethu/Portfolio)
 
 - 📫 How to reach me **v.sanjay9380@gmail.com**
 
