@@ -35,3 +35,8 @@
      width=100%
 src="https://github-readme-streak-stats.herokuapp.com?user=sanjaychethu&theme=great-gatsby">
 </p>
+
+# Contributions as Vice Chairperson, Software Development SIG, IEEE UVCE
+[![image.png](https://i.postimg.cc/RF8V9n9r/image.png)](https://postimg.cc/VrqcWvd4)
+[![image.png](https://i.postimg.cc/FsxzkzVS/image.png)](https://postimg.cc/ykkswV56)
+[![image.png](https://i.postimg.cc/xj3nt7ND/image.png)](https://postimg.cc/3WNswtZn)
